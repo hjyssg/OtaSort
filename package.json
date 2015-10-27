@@ -1,0 +1,33 @@
+{
+  "name": "OtaSort",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "repository": "hjyssg/OtaSort",
+  "author": {
+    "name": "hjyssg",
+    "email": "hjyssg47@163.com",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "keywords": [
+    "manga",
+    "sort"
+  ],
+  "dependencies": {
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "mocha": "*", 
+    "chai": "*"
+  }
+}
