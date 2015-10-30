@@ -7,5 +7,8 @@ Why?
     And now I have a better understanding of what I really need.
 
 Debug:
-    install node-inspector
-    node-debug -b -p 8585 .\index.js
+
+    install node-inspector   
+    node-debug -b -p 8585 .\index.js   
+    iron-node.cmd .\node_modules\mocha\bin\_mocha .\test\parser.test.js
+    keyword debugger
